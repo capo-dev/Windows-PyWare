@@ -18,5 +18,6 @@ Note: Always use such tools responsibly and ethically, respecting privacy and le
    
 Disclaimer: This tool is meant for educational purposes only. Do not use it for any malicious intent or without proper authorization.
 
-![Windows-PyWare-img](windowspyware.png)
+<img src="windowspyware.png" alt="Windows PyWare Image" width="350" height="350">
+
 
